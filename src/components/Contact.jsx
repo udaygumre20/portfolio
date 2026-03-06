@@ -66,7 +66,7 @@ const Contact = () => {
                         </a>
                         <a href="https://linkedin.com/in/udaygumre" target="_blank" rel="noopener noreferrer" className="contact-item">
                             <FaLinkedin className="icon" />
-                            <span>linkedin.com/in/udaygumre</span>
+                            <span>https://www.linkedin.com/in/udaygumre20?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app</span>
                         </a>
                     </div>
                 </div>
@@ -245,3 +245,4 @@ const Contact = () => {
 };
 
 export default Contact;
+
